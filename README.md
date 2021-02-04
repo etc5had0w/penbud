@@ -30,14 +30,22 @@ ln -s ${PWD}/penbud.py /usr/bin/penbud
 Right now the tools is integrating following tools :
 
 nmap
+
 gobuster
+
 nikto
+
 john
+
 hashcat
+
 msfvenom
+
 
 The tool will also help in starting file transfer servers , curruntly supporting :
 
 http server
+
 ftp server
+
 smb server
