@@ -10,3 +10,6 @@ git clone https://github.com/etc5had0w/penbud.git
 cd penbud/
 ln -s ${PWD}/penbud.py /usr/bin/penbud
 ```
+
+
+![demo](https://github.com/etc5had0w/penbud/blob/main/demo.png?raw=true "Title")
