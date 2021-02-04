@@ -32,27 +32,20 @@ penbud
 
 ![demo](https://github.com/etc5had0w/penbud/blob/main/demo.png?raw=true "Title")
 
-
+## Features :
 
 Right now the tools is integrating following tools :
 
-nmap
-
-gobuster
-
-nikto
-
-john
-
-hashcat
-
-msfvenom
+* nmap
+* gobuster
+* nikto
+* john
+* hashcat
+* msfvenom
 
 
 The tool will also help in starting file transfer servers , curruntly supporting :
 
-http server
-
-ftp server
-
-smb server
+* http server
+* ftp server
+* smb server
