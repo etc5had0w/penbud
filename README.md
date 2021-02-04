@@ -5,6 +5,6 @@ PENBUD is penetration testing buddy which helps you in penetration testing by ma
 
 ## How To Install :   
 
-`git clone https://github.com/etc5had0w/penbud.git  
-cd penbud/  
-ln -s ${PWD}/penbud.py /usr/bin/penbud`  
+`git clone https://github.com/etc5had0w/penbud.git   <br />
+cd penbud/   <br />
+ln -s ${PWD}/penbud.py /usr/bin/penbud`   <br />
