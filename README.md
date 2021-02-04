@@ -21,6 +21,13 @@ git clone https://github.com/etc5had0w/penbud.git
 cd penbud/
 ln -s ${PWD}/penbud.py /usr/bin/penbud
 ```
+## How To Use :
+
+run this commands from your terminal:
+
+```
+penbud
+```
 
 
 ![demo](https://github.com/etc5had0w/penbud/blob/main/demo.png?raw=true "Title")
